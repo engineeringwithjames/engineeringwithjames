@@ -15,7 +15,7 @@ My name is James Odeyale. I am a software developer passionate about building in
 - 🚀 I'm currently working on Happly Mobile App (Smart Habit Tracker)
 - 🎥 I'm currently documenting the journey on my YT channel 
 - 🌱 I'm currently trying to improve my knowledge on TypeScript
-- 📫 Have anything to ask? <a href="mailto:engineeringwithjames@gmail.com">Ask Here</a>
+- 📫 Have anything to ask? <a href="https://github.com/jamesodeyale/jamesodeyale/issues">Ask Here</a>
 
 <!--
 **jamesodeyale/jamesodeyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
