@@ -3,10 +3,6 @@
 My name is James Odeyale. I am a software developer passionate about building intelligent apps.
 
 <p align="center">
-  <a href="https://github.com/jamesodeyale" target="_blank">
-    <img src="https://img.shields.io/github/followers/jamesodeyale?label=Follow&style=for-the-badge"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/james-odeyale/" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
   </a>
