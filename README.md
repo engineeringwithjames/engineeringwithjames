@@ -13,7 +13,7 @@ My name is James Odeyale. I am a software developer passionate about building in
 </p>
 
 - 🚀 I'm currently working on Happly Mobile App (Smart Habit Tracker)
-- 🎥 I have a YouTube channel for my creative outlet
+- 🎥 I make content on YouTube, Instagram and TikTok
 - 🌱 I'm currently trying to improve my knowledge on React, React Native & TypeScript
 - 📫 Have anything to ask? <a href="https://github.com/jamesodeyale/jamesodeyale/issues">Ask Here</a>
 
