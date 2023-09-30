@@ -7,7 +7,7 @@ My name is James Odeyale. I am a software developer passionate about building in
       <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-   <a href="https://www.youtube.com/@jamesodeyale" target="_blank">
+   <a href="https://www.youtube.com/@engineeringwithjames" target="_blank">
       <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
@@ -15,7 +15,7 @@ My name is James Odeyale. I am a software developer passionate about building in
 - 🚀 I'm currently working on Happly a smart habit tracker
 - 🎥 I make content on YouTube and Instagram
 - 🌱 I'm currently trying to advance my knowledge on React, React Native & TypeScript
-- 📫 Have anything to ask? <a href="https://github.com/jamesodeyale/jamesodeyale/issues">Ask Here</a>
+- 📫 Have anything to ask? <a href="https://github.com/engineeringwithjames/engineeringwithjames/issues">Ask Here</a>
 
 <!--
 **jamesodeyale/jamesodeyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
