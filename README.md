@@ -1,6 +1,6 @@
 ## Hi there I'm James 👋🏾 
 
-My name is James Odeyale. I am a software developer passionate about building intelligent apps.
+Just having fun with code and here is my playground. Somethings are private (because they're still in the works) but feel free to check out my public project
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-odeyale/" target="_blank">
@@ -12,9 +12,6 @@ My name is James Odeyale. I am a software developer passionate about building in
   </a>
 </p>
 
-- 🚀 I'm currently working on Happly (repo is public)
-- 🎥 I film my side projects on YouTube and Instagram
-- 🌱 I'm currently trying to advance my knowledge on Software Engineering
 - 📫 Have anything to ask? <a href="https://github.com/engineeringwithjames/engineeringwithjames/issues">Ask Here</a>
 
 <!--
