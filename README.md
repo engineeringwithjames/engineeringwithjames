@@ -1,6 +1,7 @@
 ## Hi there I'm James 👋🏾 
 
 Just having fun with code and here is my playground. Somethings are private (because they're still in the works) but feel free to check out my public project
+- 📫 Have anything to ask? <a href="https://github.com/engineeringwithjames/engineeringwithjames/issues">Ask Here</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-odeyale/" target="_blank">
@@ -12,7 +13,6 @@ Just having fun with code and here is my playground. Somethings are private (bec
   </a>
 </p>
 
-- 📫 Have anything to ask? <a href="https://github.com/engineeringwithjames/engineeringwithjames/issues">Ask Here</a>
 
 <!--
 **jamesodeyale/jamesodeyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
