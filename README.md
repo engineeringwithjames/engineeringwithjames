@@ -1,6 +1,6 @@
 ## Hi there I'm James 👋🏾 
 
-Just having fun with code and here is my playground. Somethings are private (because they're still in the works) but feel free to check out my public project
+Just having fun with code and here is my playground. Most things are private (because they're still in the works) but feel free to check out my public projects
 - 📫 Have anything to ask? <a href="https://github.com/engineeringwithjames/engineeringwithjames/issues">Ask Here</a>
 
 <p align="center">
